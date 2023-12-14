@@ -1,0 +1,14 @@
+body {
+    background-color: navy;
+    color:antiquewhite;
+    
+}
+h1 {
+    font-size: 25px bold;
+}
+a {
+    color: antiquewhite;
+}
+a:hover {
+    color:yellow;
+}
